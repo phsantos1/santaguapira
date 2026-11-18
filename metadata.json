@@ -1,0 +1,8 @@
+{
+  "name": "Santa Guapira Hamburgueria",
+  "description": "Website oficial da Santa Guapira Hamburgueria no Tucuruvi, São Paulo. Delivery desde 2020 (17h às 23h45) via iFood e atendimento no salão na Av. Guapira, 753 (18h às 23h).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
